@@ -1,68 +1,240 @@
-<!-- Cabeçalho estilo Terminal / Dashboard -->
+# <div align="center">⚡ SYSTEM BOOT</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=system.init()%23;Greetings+human%3B;Caio+Viterbo+%7C+Full-Stack+Developer" alt="Typing SVG" />
+
+```bash
+$ boot_profile.sh
+
+[ OK ] Loading developer profile...
+[ OK ] Initializing systems...
+[ OK ] Connecting to GitHub...
+
+User: Caio Viterbo
+Role: Software Developer
+Location: Brazil
+Status: Online
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Angular;Computer+Vision+%7C+Artificial+Intelligence;Embedded+Systems+%7C+IoT;Building+solutions+for+real-world+problems" />
+
 </div>
 
 ---
 
-### 📡 SYSTEM OVERVIEW
-> **Full-Stack Developer** focado na construção de aplicações robustas, escaláveis e com interfaces reativas de alta performance. Atualmente na reta final da graduação e atuando na gestão de iniciativas tecnológicas e de hardware/software.
+## ~/whoami
 
-* 📍 **Location:** Salvador, BA - Brazil
-* ⚙️ **Core Architecture:** Desenvolvimento reativo no frontend e APIs REST sólidas no ecossistema Java.
+```bash
+$ whoami
 
----
+Caio Viterbo
 
-### 🛠️ TECH STACK & MODULES
+Software Developer focused on building complete systems,
+connecting software, hardware and artificial intelligence.
 
-<!-- Badges Minimalistas / Neon (Substitua as cores se quiser mudar o tom do neon) -->
-<div align="left">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br>
-  <!-- Backend & DB -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-</div>
+My main interests:
+
+- Backend Engineering
+- Computer Vision
+- Artificial Intelligence
+- Embedded Systems
+- Software Architecture
+- High Performance Applications
+```
 
 ---
 
-### 🚀 FEATURED PROJECTS
+## ~/mission
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>👁️ WallEye (Frontend)</h4>
-      <p>Interface de um sistema de monitoramento estrutural focado na detecção preventiva de fissuras através de sensores IoT. Desenvolvido com técnicas modernas de reatividade no ecossistema Angular.</p>
-      <code>Angular</code> <code>Signals / Zoneless</code> <code>Dashboard Style</code>
-    </td>
-    <td width="50%">
-      <h4>📡 Front-angular-sensormq135</h4>
-      <p>Aplicação frontend projetada para o consumo, processamento e exibição analítica de dados capturados em tempo real pelo sensor de gás MQ135.</p>
-      <code>Angular</code> <code>TypeScript</code> <code>Real-time Data</code>
-    </td>
-  </tr>
-</table>
+```bash
+$ cat mission.txt
+
+I enjoy creating technology that goes beyond traditional web applications.
+
+My goal is to design systems capable of interacting with
+the real world through sensors, artificial intelligence,
+computer vision and modern web platforms.
+
+I believe software becomes most interesting when it solves
+real problems outside the screen.
+```
 
 ---
 
-### 📊 METRICS & TELEMETRY
+## ~/tech_stack
 
-<!-- Alinhamento dos cards de estatísticas usando o tema de cor escura para combinar com o GitHub Black -->
+```bash
+$ tree stack/
+
+stack
+├── Backend
+│   ├── Java
+│   ├── Spring Boot
+│   ├── REST APIs
+│   ├── JPA / Hibernate
+│   └── PostgreSQL
+│
+├── Frontend
+│   ├── Angular
+│   ├── TypeScript
+│   ├── RxJS
+│   ├── Signals
+│   ├── HTML
+│   └── CSS
+│
+├── Databases
+│   ├── PostgreSQL
+│   ├── MySQL
+│   └── Supabase
+│
+├── Tools
+│   ├── Git
+│   ├── Docker
+│   ├── Linux
+│   └── Postman
+│
+└── Learning
+    ├── Computer Vision
+    ├── Machine Learning
+    ├── System Design
+    └── Distributed Systems
+```
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caioviterbo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=C9D1D9" alt="GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioviterbo&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" alt="Top Languages" height="160px" />
+
+### Technologies
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,postgres,docker,git,linux,mysql&theme=dark" />
+
 </div>
 
 ---
 
-### 🔌 CONNECT WITH THE INTERFACE
+## ~/featured_project
 
-* 👔 **LinkedIn:** [Seu Nome Profissional](https://linkedin.com/in/seu-usuario)
-* 📧 **Email:** `seu.email@provedor.com`
-* 🌐 **Portfolio:** [caioviterbo.dev](https://seusite.com) (se tiver)
+# 👁️ WallEye
+
+```bash
+$ project --info WallEye
+
+Status: Completed
+
+Description:
+AI-powered structural monitoring platform designed
+to detect cracks and anomalies in structures.
+
+Architecture:
+```
+
+```text
+┌─────────────────────────────┐
+│ Embedded Device             │
+│ Python + AI Model           │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ Spring Boot Backend         │
+│ Alerts • Persistence • API  │
+└──────────────┬──────────────┘
+               │
+               ▼
+┌─────────────────────────────┐
+│ Angular Dashboard           │
+│ Monitoring • Analytics      │
+│ Real-time Visualization     │
+└─────────────────────────────┘
+```
+
+### Main Features
+
+```bash
+✓ Crack detection using AI
+
+✓ Embedded monitoring device
+
+✓ Real-time alerts
+
+✓ Severity classification
+
+✓ Web dashboard
+
+✓ Device integration
+
+✓ User authentication
+
+✓ Data visualization
+```
+
+---
+
+## ~/github_stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=caioviterbo&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioviterbo&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=caioviterbo&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## ~/currently_learning
+
+```bash
+$ roadmap
+
+[ IN PROGRESS ]
+
+> Advanced Java
+
+> Software Architecture
+
+> Computer Vision
+
+> Machine Learning
+
+> System Design
+
+> Distributed Systems
+```
+
+---
+
+## ~/terminal_status
+
+```bash
+CPU Usage      ███████░░░ 70%
+Learning       █████████░ 90%
+Curiosity      ██████████ 100%
+Coffee         ████████░░ 80%
+
+Current Mode:
+Building cool stuff.
+```
+
+---
+
+## ~/connect
+
+```bash
+$ contact
+
+LinkedIn : https://linkedin.com/in/SEU-LINK
+Email    : SEU_EMAIL
+GitHub   : https://github.com/caioviterbo
+```
+
+<div align="center">
+
+"Any sufficiently advanced technology is indistinguishable from magic."
+
+— Arthur C. Clarke
+
+</div>
